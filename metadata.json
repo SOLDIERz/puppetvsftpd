@@ -11,7 +11,7 @@
     "Modulefile": "f9a21d2f09226dc2b2dd05fc80827aba",
     "README.markdown": "d0bf6fae2289b445f404e308da498dc6",
     "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
-    "manifests/init.pp": "2dcf29a48fa6a698b019274b24a9b34e",
+    "manifests/init.pp": "a5c2a40f83781b7269bba481b4c33239",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
     "tests/init.pp": "c9465034df691a6c3c22ac01f3d8ad94"
