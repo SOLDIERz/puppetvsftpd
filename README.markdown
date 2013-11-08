@@ -1,3 +1,3 @@
 # puppetvsftpd #
 
-This is the puppetvsftpd module. It provides...
+Puppet-Module for VSFTPD
